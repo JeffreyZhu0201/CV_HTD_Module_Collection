@@ -28,9 +28,7 @@ CV_HTD_Module_Collection/
 ## 主要内容
 
 - **经典模型复现**：如 [STARCOP](经典模型复现/STARCOP/README.md)，包含高光谱目标检测等前沿模型的复现与应用示例。
-- **个人项目**：如 [rainbow-pay-sdk-go](MyGithub/rainbow-pay-sdk-go/)，实现了支付SDK的Go语言版本。
 - **优秀开源项目收集**：如 [ZoRI-main](Github/ZoRI-main/INSTALL.md)，包含语义分割、目标检测等领域的主流项目。
-- **学习笔记与PPT**：整理了学习过程中的笔记与相关汇报材料，便于查阅和复习。
 
 ## 环境配置
 
