@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Github/TUFusion"
+		},
+		{
+			"path": "../数据集"
+		},
+		{
+			"path": "../经典模型复现"
+		},
+		{
+			"path": "../Github/Pixel-level-Hyperspectral-Target-Detection"
+		}
+	],
+	"settings": {}
+}
